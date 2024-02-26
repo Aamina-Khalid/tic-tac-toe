@@ -28,5 +28,7 @@ Restart Your Github and your sit is live at Pages.
 ## Technologies Used
 
 HTML : To create Layout of the game. The standard markup language for creating the structure of the game.
+
 CSS : To style the Layout creted from HTML.
+
 JavaScript : To add interactive elements and dynamic features to the game.
