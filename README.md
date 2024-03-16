@@ -15,13 +15,20 @@ https://aamina-khalid.github.io/tic-tac-toe/
 To deploy this Project
 
 Create A repository.
+
 Upload Your Folder to main branch.
+
 Go to repository settings.
+
 In settings go to Pages.
+
 From Pages select Deploy from Branch.
+
 Select Main Branch.
+
 Click Save.
-Restart Your Github and your sit is live at Pages.
+
+Restart Your Github and your site is live at Pages.
 
 
 
