@@ -1,8 +1,16 @@
 ## Tic-Tac-Toe
 
-Tic-tac-toe, or Xs and Os is a paper-and-pencil game for two players who take turns marking the spaces in a three-by-three grid with X or O. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner.
+This is a simple yet interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game is designed for two players, allowing them to take turns marking "X" and "O" on a 3x3 grid. The interface is responsive, and players are notified of a win, loss, or draw, with the option to restart the game at any time.
 
-To challange Game Development skills many Programmers code it for their first project to showcase their skills in Basic Development technologies like HTML, CSS and Javascript
+##Features:
+
+Interactive Gameplay: Players take turns, with the game automatically detecting and announcing the winner or draw.
+
+Responsive Design: The layout adapts to different screen sizes for a seamless experience across devices.
+
+Dynamic Reset: Players can restart the game after completion without reloading the page.
+
+Simple and Clean Interface: Minimalist design, focusing on functionality and user experience.
 
 
 ## Demo
