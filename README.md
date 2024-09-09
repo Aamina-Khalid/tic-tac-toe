@@ -2,7 +2,7 @@
 
 This is a simple yet interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game is designed for two players, allowing them to take turns marking "X" and "O" on a 3x3 grid. The interface is responsive, and players are notified of a win, loss, or draw, with the option to restart the game at any time.
 
-##Features:
+Features:
 
 Interactive Gameplay: Players take turns, with the game automatically detecting and announcing the winner or draw.
 
